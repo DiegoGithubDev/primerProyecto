@@ -36,9 +36,9 @@
                     array(
                         'class' => 'bootstrap.widgets.TbNav',
                         'items' => array(
-                            array('label' => 'Informacion', 'url' => array('/site/index')),
-                            array('label' => 'Nosotros', 'url' => array('/site/page', 'view' => 'about')),
-                            array('label' => 'Ayuda', 'url' => array('/site/contact')),
+                            array('label' => 'Informacion test', 'url' => array('/site/index')),
+                            array('label' => 'Nosotros test', 'url' => array('/site/page', 'view' => 'about')),
+                            array('label' => 'Ayuda test', 'url' => array('/site/contact')),
                             array(
                                 'label' => 'crear Perfil',
                                 'url' => array('/SacarFoto/index'),
