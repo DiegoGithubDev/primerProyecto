@@ -3,4 +3,7 @@
 <div class="span12">
     <?php echo $content; ?>
 </div><!-- content -->
+<div >
+   
+</div><!-- content -->
 <?php $this->endContent(); ?>
